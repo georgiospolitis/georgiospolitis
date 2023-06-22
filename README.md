@@ -1,9 +1,18 @@
-My name is Giorgos Politis, and I am a dedicated person with a strong passion for frontend development. With a Bachelor's Degree in Applied Informatics and valuable experience as a Junior Frontend Developer, I am actively seeking opportunities to expand my skill set and contribute to a dynamic work environment.
-
-Throughout my career, I have cultivated a flexible and adaptable approach, allowing me to excel in diverse professional settings. I am committed to continuous growth and constantly strive to enhance my existing skills. With a solid work ethic and a keen eye for detail, I consistently deliver high-quality results.
-
-My exceptional communication skills enable me to effectively collaborate with individuals from various backgrounds. I am an attentive listener and a quick learner, always open to new ideas and eager to adapt to any task or challenge. I excel in time management, efficiently prioritizing tasks to meet deadlines effectively.
-
-During my tenure as a Junior Frontend Developer at Devio, I made significant contributions to the DIAVLOS Project utilizing Angular. This project involved the live digital transmission of lectures, seminars, artistic events, and other significant cultural and educational initiatives hosted by renowned institutions such as Music Majors, Museums, and Conference Centres. I successfully maintained and executed assigned tasks with precision, showcasing my strong problem-solving abilities and attention to detail. (You can check it here: https://diavlos.devio.gr/)
-
-I am now seeking new opportunities to further advance my career and make valuable contributions to innovative projects. If you are looking for a motivated and dedicated employee with a passion for frontend development, I would welcome the chance to connect and discuss potential collaborations.
+<div style="  display: flex; justify-content: center; align-items: center;">
+  <h2 style="font-size: 24px; margin-bottom: 20px; text-align: center;">About Me</h2>
+  <p style="font-size: 16px; line-height: 1.5;">
+    👋 Hello! I'm Giorgos Politis, a dedicated and passionate frontend developer with a Bachelor's Degree in Applied Informatics and valuable experience in the field. I thrive in dynamic work environments and constantly seek opportunities to expand my skill set.
+    <br><br>
+    💻 With a strong work ethic and attention to detail, I consistently deliver high-quality results. My flexible and adaptable approach allows me to excel in diverse professional settings, and I'm committed to continuous growth and learning.
+    <br><br>
+    🤝 I possess exceptional communication skills, enabling me to effectively collaborate with individuals from various backgrounds. I value open-mindedness, actively listening to others and embracing new ideas. I'm always eager to adapt to new challenges and tasks.
+    <br><br>
+    ⏰ Time management is one of my strengths, and I excel at efficiently prioritizing tasks to meet deadlines effectively. I'm skilled in frontend technologies and frameworks, including Angular, and I'm passionate about creating engaging user experiences.
+    <br><br>
+    🔧 As a Junior Frontend Developer at Devio, I played a significant role in the DIAVLOS Project, which involved the live digital transmission of lectures, seminars, and cultural events hosted by renowned institutions. I successfully executed assigned tasks with precision, showcasing my problem-solving abilities and attention to detail. You can check out the project at <a href="https://diavlos.devio.gr/">https://diavlos.devio.gr/</a>.
+    <br><br>
+    🌟 I am currently seeking new opportunities to advance my career and contribute to innovative projects. If you're looking for a motivated and dedicated frontend developer, I would be thrilled to connect and discuss potential collaborations.
+    <br><br>
+    Let's build something amazing together! Feel free to reach out to me to discuss any exciting projects or opportunities.
+  </p>
+</div>
