@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgos</h1>
 <h3 align="center">A passionate frontend developer from Greece</h3>
 
-- 🔭 Currently working as a Full Stack Web Developer at <a href="https://it.auth.gr/" target="_blank">AUTH IT CENTER</a>
+- 🔭 Currently working as a Full Stack Web Developer at <a href="https://it.auth.gr/" target="_blank" rel="noopener">AUTH IT CENTER</a>
 
 - 🌱 I’m currently learning **everything about Web Development**
 
