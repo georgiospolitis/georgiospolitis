@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giorgos</h1>
-<h3 align="center">A passionate frontend developer from Greece</h3>
+<h3 align="center">A passionate web developer from Greece</h3>
 
 - 🔭 Currently working as a Full Stack Web Developer at <a href="https://it.auth.gr/" target="_blank" rel="noopener">AUTH IT CENTER</a>
 
